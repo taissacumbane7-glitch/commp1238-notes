@@ -1,1 +1,5 @@
-# commp1238-notes
+## Links
+
+- [D2L](COLA_AQUI_O_LINK_DO_D2L)
+- [AtKlass](COLA_AQUI_O_LINK_DO_ATKLASS)
+- [Important Dates](COLA_AQUI_O_LINK_DAS_DATAS_IMPORTANTES)# commp1238-notes
