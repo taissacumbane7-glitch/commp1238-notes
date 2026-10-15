@@ -1,6 +1,6 @@
 ## Links
 
-- [D2L](COLA_AQUI_O_LINK_DO_D2L)
-- [AtKlass](COLA_AQUI_O_LINK_DO_ATKLASS)
-- [Important Dates](COLA_AQUI_O_LINK_DAS_DATAS_IMPORTANTES)# commp1238-notes
+- [D2L](https://learn.georgebrown.ca)
+- [AtKlass](https://app.atklass.com)
+- [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [comp1238](comp1238.md)
