@@ -3,4 +3,4 @@
 - [D2L](COLA_AQUI_O_LINK_DO_D2L)
 - [AtKlass](COLA_AQUI_O_LINK_DO_ATKLASS)
 - [Important Dates](COLA_AQUI_O_LINK_DAS_DATAS_IMPORTANTES)# commp1238-notes
-- [link text](comp1238.md)
+- [comp1238](comp1238.md)
